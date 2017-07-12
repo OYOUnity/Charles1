@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "oyoSpinner.data.unityweb",
+"asmCodeUrl": "oyoSpinner.asm.code.unityweb",
+"asmMemoryUrl": "oyoSpinner.asm.memory.unityweb",
+"asmFrameworkUrl": "oyoSpinner.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
