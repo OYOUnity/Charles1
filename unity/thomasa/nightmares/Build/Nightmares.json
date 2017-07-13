@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Nightmares.data.unityweb",
+"asmCodeUrl": "Nightmares.asm.code.unityweb",
+"asmMemoryUrl": "Nightmares.asm.memory.unityweb",
+"asmFrameworkUrl": "Nightmares.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
