@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Long Petey.data.unityweb",
+"asmCodeUrl": "Long Petey.asm.code.unityweb",
+"asmMemoryUrl": "Long Petey.asm.memory.unityweb",
+"asmFrameworkUrl": "Long Petey.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
