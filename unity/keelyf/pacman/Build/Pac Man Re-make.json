@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Pac Man Re-make.data.unityweb",
+"asmCodeUrl": "Pac Man Re-make.asm.code.unityweb",
+"asmMemoryUrl": "Pac Man Re-make.asm.memory.unityweb",
+"asmFrameworkUrl": "Pac Man Re-make.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
