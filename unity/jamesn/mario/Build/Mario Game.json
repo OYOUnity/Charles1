@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Mario Game.data.unityweb",
+"asmCodeUrl": "Mario Game.asm.code.unityweb",
+"asmMemoryUrl": "Mario Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Mario Game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
